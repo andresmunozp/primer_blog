@@ -57,7 +57,7 @@ h1 {
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #ff9776;
+  background-color: #ff6f61;
 }
 
 .expanded {
@@ -84,11 +84,3 @@ h1 {
   
 }
 
-html.dark {
-  background-color: #0d0950;
-  color: #fff;
-}
-
-.dark .nav-links a {
-  color: #fff;
-}

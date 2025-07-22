@@ -17,5 +17,6 @@ const blog = defineCollection({
     tags: z.array(z.string())
   })
 });
+
 // Exporta un solo objeto `collections` para registrar tus colecciones
 export const collections = { blog };
